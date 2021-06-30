@@ -1,0 +1,30 @@
+.img_yukseklik{
+height: 200px;
+margin-top: 10px;
+}
+.meslek{
+    font-size: 13px;
+    margin-left: -30px;
+}
+.sayfa_sol{
+    height: 670px;
+    width: 300px;
+    margin-top: 10px;
+    background-color: #e6dace;
+}
+.egitim{
+    height: 500px;
+}
+.programming{
+    height: 500px;
+}
+
+#arka1:hover{
+    background-color: #E8A891;
+}
+#arka2:hover{
+    background-color: #E8A891;
+}
+#arka3:hover{
+    background-color: #E8A891;
+}
